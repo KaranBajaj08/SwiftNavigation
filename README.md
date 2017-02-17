@@ -1,5 +1,6 @@
 # SwiftNavigation
 This repository contains the application challenge for Swift Navigation
+The FizzBuzz program can be found in the main.cpp file
 
 Software, Product, and Embedded Engineering Candidates
 
